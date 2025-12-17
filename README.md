@@ -12,10 +12,10 @@ Accurate segmentation of ultrasound images is crucial for medical diagnosis and 
 
 
 ## The overall architecture
-![framework](imgs/fig2.jpg)
+![framework](imgs/fig2.png)
 
 ## Visual results on BUSI, TN3K, TG3K, and MMOTU datasets
-![framework](imgs/fig4.jpg)
+![framework](imgs/fig4.png)
 
 
 ## Main Environments
