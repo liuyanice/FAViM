@@ -5,6 +5,7 @@ This repository contains the official PyTorch implementation of the following pa
 #### Frequency-Aware Vision Mamba with Deformable Windowed Selective Scan for Ultrasound Image Segmentation
 
 Yan Liu, Yan Yang, Yongquan Jiang, Xiaole Zhao and Liang Fan
+
 School of Computing and Artificial Intelligence, Southwest Jiaotong University  
 
 ## Abstract
