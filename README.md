@@ -39,7 +39,8 @@ The version of mamba_ssm can be found here. {[mamba_ssm](https://github.com/stat
 ## Prepare the datasets
 
 ### BUSI dataset
-- The BUSI used for four-fold cross-validation, can be found here {[GoogleDrive](https://drive.google.com/file/d/1AOpPgSEAfgUS2w4rCGaJBbNYbRh3Z_FQ/view?usp=sharing)}.
+- The BUSI used for four-fold cross-validation, can be found here {[BaiduDrive](https://pan.baidu.com/s/1i2zbRwPtESQaPK9dDuupHg)}.
+- Extraction code: BUS1
 - After downloading the datasets, you are supposed to put them into './TrainDataset/BUSI/', and the file format reference is as follows. (take the BUSI dataset as an example.)
 
 - './TrainDataset/BUSI/'
@@ -51,8 +52,8 @@ The version of mamba_ssm can be found here. {[mamba_ssm](https://github.com/stat
 
 ### TN3K dataset
 
-- For the TN3K dataset, can be found here {[GoogleDrive](https://drive.google.com/file/d/1-eDXzTgXrTTo7hcrWZnh_wVEtB92PBNz/view?usp=sharing)}.
-
+- For the TN3K dataset, can be found here {[BaiduDrive](https://pan.baidu.com/s/1az10VbYjC0yavyVuSkbTdQ)}.
+- Extraction code: TG3K
 - After downloading the datasets, you are supposed to put them into './TrainDataset/TN3K/', and the file format reference is as follows.
 
 - './TrainDataset/TN3K/'
@@ -63,7 +64,8 @@ The version of mamba_ssm can be found here. {[mamba_ssm](https://github.com/stat
   - data_split.json
 
 ### TG3K dataset 
-- For the TG3K dataset, can be found here {[GoogleDrive](https://drive.google.com/file/d/1k7JmMqDsEmd1KqpnPmHh8kK_38oJDTh2/view?usp=sharing)}.
+- For the TG3K dataset, can be found here {[BaiduDrive](https://pan.baidu.com/s/1jRWyM6MA11qEcTXagKpjFw)}.
+- Extraction code: TG3K
 - After downloading the datasets, you are supposed to put them into '/TrainDataset/TG3K/', and the file format reference is as follows.
 - './TrainDataset/TG3K/'
   - Image
@@ -73,7 +75,8 @@ The version of mamba_ssm can be found here. {[mamba_ssm](https://github.com/stat
   - data_split.json
  
 ### MMOTU dataset 
-- For the MMOTU dataset, can be found here {[GoogleDrive]( )}.
+- For the MMOTU dataset, can be found here {[BaiduDrive](https://pan.baidu.com/s/1MzALz-Eg-G5O0aS7a4C-gQ)}. 
+- Extraction code: MMO4
 - After downloading the datasets, you are supposed to put them into '/TrainDataset/MMOTU/', and the file format reference is as follows.
 - './TrainDataset/MMOTU/'
   - Image
