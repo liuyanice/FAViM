@@ -87,12 +87,6 @@ The version of mamba_ssm can be found here. {[mamba_ssm](https://github.com/stat
 
 ## Prepare the pre_trained weights
 
-| Tasks     |     weights |
-|:----------|------------:|
-| BUSI     | [weight](https://drive.google.com/file/d/1sOR_gxFEuFy4ofrJA2XRSVcpaZT9HT8B/view?usp=sharing) | 
-| TN3K     | [weight]() |
-| TG3K     | [weight](https://drive.google.com/file/d/1e16OoWkeTOgAPv6ayv9vn4d-uHfl371Z/view?usp=sharing) | 
-| MMOTU    | [weight](https://drive.google.com/file/d/1R20ea_rZmkjjAgOe0husqieCSq49hX6o/view?usp=sharing) | 
 The pretrain weight of LocalMamba can be found at [LocalMamba](https://drive.google.com/file/d/1CWP5atOLJYnoBr8Nx8159WJMNeSUe2ei/view?usp=sharing)
 
 ## Train and Infer on the FAViM 
@@ -100,8 +94,8 @@ The pretrain weight of LocalMamba can be found at [LocalMamba](https://drive.goo
 ### BUSI, TN3K, TG3K, and MMOTU tasks
 ```bash
 cd FAViM
-train: train_BUSI.py, train_TN3K.py, train_TG3K.py, train_MMOTU.py  
-infer: test_BUSI.py, test_TN3K.py, test_TG3K.py, test_MMOTU.py  
+train: train_new.py
+infer: test_mu_WithF_pred5.py, test_mu_WithF_pred5.py
 ```
 ```
 - After training, you could obtain the results in './model/' 
